@@ -39,6 +39,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.ОбщаяКонстантаСтрока</constants>
   <catalogs>Catalog.СправочникТест</catalogs>
   <catalogs>Catalog.СправочникТест2</catalogs>
   <catalogs>Catalog.Товары</catalogs>
